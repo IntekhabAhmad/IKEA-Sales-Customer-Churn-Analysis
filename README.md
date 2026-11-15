@@ -43,4 +43,9 @@ An end-to-end data analytics project analyzing customer purchasing behavior, rev
 ---
 
 ## 📷 Dashboard Preview
+### Sales & Churn Overview
+<img width="614" height="347" alt="image" src="https://github.com/user-attachments/assets/faad027e-80e0-4a1b-8f4e-509704b43d94" />
+
+### RFM Analysis
+<img width="612" height="345" alt="image" src="https://github.com/user-attachments/assets/2eb6ffed-3695-4324-9461-a2540a81506b" />
 
