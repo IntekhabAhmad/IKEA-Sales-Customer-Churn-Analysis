@@ -1,26 +1,6 @@
 # IKEA-Sales-Customer-Churn-Analysis
 End-to-end data analytics pipeline on IKEA retail transactions: data cleaning and transformation in SQL, EDA and customer churn analysis in Python (Pandas/NumPy), and interactive executive dashboarding in Power BI using custom DAX measures.
 
-IKEA-Customer-Churn-And-Sales-Analytics/
-
-── data/
-── raw_data.csv                  # Original uncleaned dataset (or sample if large)
-   └── cleaned_data.csv              # Dataset exported after SQL/Python cleaning
-
-── sql/
-   ├── 01_data_cleaning.sql          # DDL, handling nulls, duplicates, data types
-   └── 02_exploratory_queries.sql    # Initial aggregations and validation checks
-
-── notebooks/
-   └── churn_and_sales_eda.ipynb     # Python (Pandas/NumPy) analysis & segmentation
-
-── dashboard/
-   ├── IKEA_Analytics_Dashboard.pbix # Your Power BI file
-   ├── Home_Page.png                 # Screenshot of the Home Page
-   ├── Overview_Page.png             # Screenshot of the Overview Page
-   └── Churn_Analysis_Page.png       # Screenshot of the Churn/KPI Page
-
-
 # 🛒 IKEA Sales & Customer Churn Analytics
 
 ## 📌 Project Overview
